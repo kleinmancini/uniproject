@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell
+END
+IValueBinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell/IValueBinder.php
+END
+DataType.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell/DataType.php
+END
+DataValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell/DataValidation.php
+END
+DefaultValueBinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell/DefaultValueBinder.php
+END
+Hyperlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell/Hyperlink.php
+END
+AdvancedValueBinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Cell/AdvancedValueBinder.php
+END

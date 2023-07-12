@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/Escher.php
+END
+Drawing.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/Drawing.php
+END
+OLERead.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/OLERead.php
+END
+PasswordHasher.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/PasswordHasher.php
+END
+XMLWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/XMLWriter.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/Date.php
+END
+ZipStreamWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/ZipStreamWrapper.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/File.php
+END
+OLE.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/OLE.php
+END
+ZipArchive.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/ZipArchive.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/Excel5.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/Font.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/String.php
+END
+CodePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Shared/CodePage.php
+END

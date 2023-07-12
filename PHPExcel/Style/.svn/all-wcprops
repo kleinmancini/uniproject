@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Border.php
+END
+Alignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Alignment.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Color.php
+END
+Borders.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Borders.php
+END
+NumberFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/NumberFormat.php
+END
+Supervisor.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Supervisor.php
+END
+Conditional.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Conditional.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Fill.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Font.php
+END
+Protection.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Style/Protection.php
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation
+END
+Engineering.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Engineering.php
+END
+ExceptionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/ExceptionHandler.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/DateTime.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Exception.php
+END
+Database.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Database.php
+END
+LookupRef.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/LookupRef.php
+END
+FormulaToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/FormulaToken.php
+END
+Functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Functions.php
+END
+functionlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/functionlist.txt
+END
+Logical.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Logical.php
+END
+TextData.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/TextData.php
+END
+MathTrig.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/MathTrig.php
+END
+FormulaParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/FormulaParser.php
+END
+Statistical.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Statistical.php
+END
+Financial.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Financial.php
+END
+Function.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Environments/!svn/ver/200596/trunk/SUPPORT/FileValidator/PHPExcel/Calculation/Function.php
+END
